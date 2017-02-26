@@ -1,0 +1,22 @@
+{
+  "name": "privatePodTest",
+  "version": "0.1.0",
+  "summary": "A short description of privatePodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jin_kai/privatePodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jin_kai": "kai_jin_job@gamil.com"
+  },
+  "source": {
+    "git": "https://github.com/jin_kai/privatePodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "privatePodTest/Classes/**/*"
+}
